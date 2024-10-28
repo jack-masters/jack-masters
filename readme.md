@@ -33,4 +33,4 @@
 - :computer: &nbsp;Connect with me on my **[website]**
 
 [MoneyNinjas]: https://github.com/jack-masters/MoneyNinjas "jack-masters/MoneyNinjas"
-[website]: https://jacobcolvin.com/ "My Website"
+[website]: https://jack-masters.co.uk/ "My Website"
