@@ -15,8 +15,7 @@
 
 <a href="#jack-masters-title">
   <img src="https://github-readme-stats.vercel.app/api?username=jack-masters&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dracula&amp;locale=en&amp;hide_border=false&amp;order=1" alt="jack-masters" align="right" />
-</a>
-<hr>
+</a><hr>
 <a href="#jack-masters-othr">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jack-masters&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="jack-masters" align="right" />
 </a>
