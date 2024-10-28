@@ -19,8 +19,14 @@
 <a href="#jack-masters-othr">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jack-masters&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="jack-masters" align="right" />
 </a>
-<hr>
-<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 - :seedling: &nbsp;I’m currently working on **[MoneyNinjas]**
 - :speech_balloon: &nbsp;I like to talk about **node :)**
