@@ -29,7 +29,6 @@
 <br>
 
 - :seedling: &nbsp;I’m currently working on **[MoneyNinjas]**
-- :speech_balloon: &nbsp;I like to talk about **node :)**
 - :computer: &nbsp;Connect with me on my **[website]**
 
 [MoneyNinjas]: https://github.com/jack-masters/MoneyNinjas "jack-masters/MoneyNinjas"
