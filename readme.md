@@ -28,8 +28,6 @@
 <br>
 <br>
 
-- :seedling: &nbsp;I’m currently working on **[MoneyNinjas]**
-- :computer: &nbsp;Connect with me on my **[website]**
+- :computer: &nbsp;Connect with me on my **[Website]**
 
-[MoneyNinjas]: https://github.com/jack-masters/MoneyNinjas "jack-masters/MoneyNinjas"
-[website]: https://jack-masters.co.uk/ "My Website"
+[Website]: https://jack-masters.co.uk/ "My Website"
